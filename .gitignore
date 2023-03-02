@@ -1,0 +1,8 @@
+tune*/
+optical_table/
+scene_json/
+utils/
+*.png
+*.pyc
+*results/
+results*/
